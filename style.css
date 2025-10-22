@@ -1,0 +1,10 @@
+.datetime-container {
+  margin-top: 2rem;
+  font-size: 1.25rem;
+  color: #fff;
+  font-weight: bold;
+}
+
+#clock {
+  margin-top: 0.25rem;
+}
